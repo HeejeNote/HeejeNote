@@ -1,19 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&animation=fadeIn&section=footer&text=🗨️ThinkSpace💬&fontAlign=50)
+<div align="center">
+<h2>HeejeNote :) Think Sapce</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeejeNote&count_bg=%23947BC9&title_bg=%239041DF&icon=&icon_color=%23B792CF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeejeNote%2Fhit-counter&count_bg=%239778BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HeejeNote)
 
-<!--
-**HeejeNote/HeejeNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HeejeNote GitHub stats](https://github-readme-stats.vercel.app/api?username=HeejeNote&show_icons=true&theme=tokyonight)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeejeNote&layout=compact&theme=tokyonight)
+</div>
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

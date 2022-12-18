@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🗨️ThinkSpace💬&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&animation=fadeIn&section=footer&text=🗨️ThinkSpace💬&fontAlign=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeejeNote&count_bg=%23947BC9&title_bg=%239041DF&icon=&icon_color=%23B792CF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
